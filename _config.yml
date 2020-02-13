@@ -2,8 +2,4 @@ theme: jekyll-theme-cayman
 
 # Site settings
 title: saiedfamily
-email: your_email@example.com
-author: The Saied Family
 description: "The Saied Family Webpage"
-baseurl: "/saiedfamily"
-url: "http://saiedfamily.github.io"
